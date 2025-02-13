@@ -7,7 +7,7 @@
 #
 Name     : pypi-markdown_include
 Version  : 0.8.1
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/ad/d8/66bf162fe6c1adb619f94a6da599323eecacf15b6d57469d0fd0421c10df/markdown-include-0.8.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ad/d8/66bf162fe6c1adb619f94a6da599323eecacf15b6d57469d0fd0421c10df/markdown-include-0.8.1.tar.gz
 Summary  : A Python-Markdown extension which provides an 'include' function
